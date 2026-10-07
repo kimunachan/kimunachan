@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey my Name is Jonas, im a Software Developer<br>and currently I am working on my Personal Website<br>and study Computer Science.
+Hey my Name is Jonas, im a Software Developer<br>and currently I am working on my Personal Website<br>and a Bachelor in Computer Science.
 
 
 ## 🌐 Socials:
